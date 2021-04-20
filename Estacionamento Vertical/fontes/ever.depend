@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1543075534 source:c:\users\barbo\desktop\estacionamento vertical\fontes\evert.cpp
+	<iostream>
+	<cmath>
+	<clocale>
+	<cstring>
+	<cstdio>
+	<ctime>
+	"ctype.h"
+	"EVert.h"
+
+1543075535 c:\users\barbo\desktop\estacionamento vertical\fontes\evert.h
+
+1543075537 source:c:\users\barbo\desktop\estacionamento vertical\fontes\main.cpp
+	<iostream>
+	<windows.h>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	"EVert.h"
+
+1543071934 source:c:\users\abraao\desktop\aquivos faculdade\2 período\aeds 1\estacionamento vertical\fontes\evert.cpp
+	<iostream>
+	<cmath>
+	<clocale>
+	<cstring>
+	<cstdio>
+	<ctime>
+	"ctype.h"
+	"EVert.h"
+
+1543071935 c:\users\abraao\desktop\aquivos faculdade\2 período\aeds 1\estacionamento vertical\fontes\evert.h
+
+1543071937 source:c:\users\abraao\desktop\aquivos faculdade\2 período\aeds 1\estacionamento vertical\fontes\main.cpp
+	<iostream>
+	<windows.h>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	"EVert.h"
+
